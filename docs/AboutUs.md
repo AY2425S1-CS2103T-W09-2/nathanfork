@@ -1,7 +1,9 @@
 ---
-layout: page
-title: About Us
+  layout: default.md
+  title: "About Us"
 ---
+
+# About Us
 
 We are a team based in the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg).
 
@@ -13,9 +15,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/timenikhil.png" width="200px">
 
-[[LinkedIn](www.linkedin.com/in/timenikhil)]
+[[LinkedIn](www.linkedin.com/in/nikhil-sultania)]
 [[github](https://github.com/Timenikhil)]
-[[portfolio](team/NikhilSultania.md)]
+[[portfolio](team/timenikhil.md)]
 
 * Role: Team Lead
 
@@ -23,17 +25,18 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/obrona.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/kimxw.md)]
+[[github](http://github.com/obrona)]
+[[portfolio](team/obrona.md)]
 
 * Role: Team Lead
 * Responsibilities: UI
 
 ### Josh Thoo Jen Sen
 
-<img src="images/joshthoo.png" width="200px">
+<img src="images/josh1248.png" width="200px">
 
-[[github](http://github.com/joshthoo)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/josh1248)]
+[[portfolio](team/josh1248.md)]
 
 * Role: Developer
 * Responsibilities: Data
@@ -46,7 +49,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/kimxw.md)]
 
 * Role: Developer
-* Responsibilities: Team Lead
+* Responsibilities: Frontend
 
 ### Nathan Shew
 
@@ -57,3 +60,4 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Developer
 * Responsibilities: Project Management
+
